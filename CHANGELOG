@@ -1,0 +1,35 @@
+commit e9ccbd21e2890d9c83a551b1e9476c2dc493de5d
+Author: mertgor <mertgor@masif.xyz>
+Date:   Fri Apr 30 15:05:57 2021 +0300
+
+    Katkıcılar için Bilgilendirme
+
+commit 83106b352142fe032e859336e6afee0aff2551f5
+Author: mertgor <mertgor@masif.xyz>
+Date:   Fri Apr 30 14:57:31 2021 +0300
+
+    Telif Hakkı güncellemesi
+
+commit 3f74bb6abeb896ff3823b5785b4bac9bbf34b270
+Author: Mert Gör <mertgor@masscollabs.com>
+Date:   Mon Apr 26 15:21:54 2021 +0300
+
+    rıhtım
+
+commit 543a09c70619a33b66e602a45c01a15e8eade4df
+Author: Mert Gör <mertgor@masscollabs.com>
+Date:   Mon Apr 26 00:06:59 2021 +0300
+
+    Lisans eklendi BSD ile ...
+
+commit 6340cb03a7d4d5f29097f62444693d13a4c7fbce
+Author: Mert Gör <mertgor@masscollabs.com>
+Date:   Mon Apr 26 00:05:49 2021 +0300
+
+    python katkı mesajı
+
+commit 675faa6701f24bc260606741cafc3f19eda3627a
+Author: Mert Gör <mertgor@masscollabs.com>
+Date:   Mon Apr 26 00:04:02 2021 +0300
+
+    Initial commit
