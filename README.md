@@ -11,6 +11,7 @@ Buradaki yol haritası öncelikleri Akıllı Tahta, Web uygulaması, Qt ve GTK a
 BSD 3-Clause License
 
 Copyright (c) 2021, Masscollabs Services Communities, and masif
+Copyright (c) 2021, Pardus Yolu Community
 
 All rights reserved.
 
