@@ -10,7 +10,7 @@ Buradaki yol haritası öncelikleri Akıllı Tahta, Web uygulaması, Qt ve GTK a
 
 BSD 3-Clause License
 
-Copyright (c) 2021, Masscollabs Services / procyberian
+Copyright (c) 2021, Masscollabs Services Communities, and masif
 
 All rights reserved.
 
